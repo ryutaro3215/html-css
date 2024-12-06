@@ -1,0 +1,31 @@
+.box {
+	width: 200px;
+	height: 100px;
+	background-color: #f00;
+	border: 1px solid #000;
+}
+
+.box-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#first {
+	background-color: #0f0;
+}
+
+#second {
+	background-color: #00f;
+}
+
+#third {
+	background-color: #ff0;
+}
+
+#fourth {
+	background-color: #f0f;
+}
+
+#fifth {
+	background-color: #0ff;
+}
